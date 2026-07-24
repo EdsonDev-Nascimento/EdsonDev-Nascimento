@@ -51,3 +51,16 @@ Fora da área de programação, tenho experiência com atendimento ao cliente, t
 </table>
 
 ---
+
+### 📬 Vamos nos conectar?
+
+<table border="0">
+ <tr>
+  <td>
+   <a href="https://www.linkedin.com/in/edson-nascimento-82515621b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" valign="middle"></a>
+  </td>
+  <td>
+   <a href="mailto:edson.dev01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" valign="middle"></a>
+  </td>
+ </tr>
+</table>
