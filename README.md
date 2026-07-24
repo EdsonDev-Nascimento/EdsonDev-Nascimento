@@ -1,3 +1,12 @@
+# Olá, eu sou o Edson! 👋
+
+### 👨‍💻 Sobre Mim
+Desenvolvedor focado em **Backend** e **Bancos de Dados**. Com bagagem técnica em Desenvolvimento de Sistemas e cursado até o 3º semestre em Análise e Desenvolvimento de Sistemas (ADS), atualmente estou em pausa da graduação, possuo experiência prática na criação de sistemas web, lógica de programação e modelagem de banco de dados por conta da faculdade e curso técnico.
+
+Atualmente focado em atualizar meus projetos práticos, aplicando boas práticas de desenvolvimento, refatoração de código legado e versionamento com Git/GitHub.
+
+Fora da área de programação, tenho experiência com atendimento ao cliente, trabalhei como SAC da Tim atráves de uma empresa terceirizada.
+
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
