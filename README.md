@@ -5,7 +5,33 @@ Desenvolvedor focado em **Backend** e **Bancos de Dados**. Com bagagem técnica 
 
 Atualmente focado em atualizar meus projetos práticos, aplicando boas práticas de desenvolvimento, refatoração de código legado e versionamento com Git/GitHub.
 
-Fora da área de programação, tenho experiência com atendimento ao cliente, trabalhei como SAC da Tim atráves de uma empresa terceirizada.
+Fora da área de programação, tenho experiência com atendimento ao cliente, trabalhei como SAC da Tim através de uma empresa terceirizada.
+
+---
+
+### 🚀 Projetos em Destaque
+
+<table border="0">
+  <tr>
+    <td width="30%" align="center">
+      <b>Fujita Imóveis</b><br><br>
+      <sub>Plataforma Imobiliária de Luxo</sub>
+    </td>
+    <td>
+      <p>Desenvolvimento da landing page institucional e vitrine de imóveis de alto padrão. Foco em alta performance, animações fluidas, design refinado e navegação responsiva mobile-first.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" valign="middle">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" valign="middle">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" valign="middle">
+        <img src="https://img.shields.io/badge/TanStack_Router-FF4154?style=flat-square&logo=react-query&logoColor=white" alt="TanStack Router" valign="middle">
+      </p>
+      <p>
+        🔒 <i>Código-fonte privado por motivos contratuais com o cliente.</i><br>
+        🔗 <a href="https://fujita-imoveis.com.br](https://fujita-lux-homes.lovable.app" target="_blank"><b>Acessar Projeto Online (Live Demo) »</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -15,12 +41,20 @@ Fora da área de programação, tenho experiência com atendimento ao cliente, t
  <tr>
   <td><b>Linguagens & Web:</b></td>
   <td>
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" valign="middle">
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" valign="middle">
    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" valign="middle">
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" valign="middle">
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" valign="middle">
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" valign="middle">
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" valign="middle">
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" valign="middle">
+   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" valign="middle">
+  </td>
+ </tr>
+ <tr>
+  <td><b>Frameworks & Libs:</b></td>
+  <td>
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" valign="middle">
   </td>
  </tr>
  <tr>
