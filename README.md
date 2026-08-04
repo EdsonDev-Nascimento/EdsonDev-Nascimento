@@ -27,7 +27,7 @@ Fora da área de programação, tenho experiência com atendimento ao cliente, t
       </p>
       <p>
         🔒 <i>Código-fonte privado por motivos contratuais com o cliente.</i><br>
-        🔗 <a href="https://fujita-imoveis.com.br](https://fujita-lux-homes.lovable.app" target="_blank"><b>Acessar Projeto Online (Live Demo) »</b></a>
+        🔗 <a href="https://fujita-lux-homes.lovable.app" target="_blank"><b>Acessar Projeto Online (Live Demo) »</b></a>
       </p>
     </td>
   </tr>
