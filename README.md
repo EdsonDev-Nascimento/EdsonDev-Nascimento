@@ -12,6 +12,7 @@ Fora da área de programação, tenho experiência com atendimento ao cliente, t
 ### 🚀 Projetos em Destaque
 
 <table border="0">
+  <!-- Projeto 1: Fujita Imóveis -->
   <tr>
     <td width="30%" align="center">
       <b>Fujita Imóveis</b><br><br>
@@ -28,6 +29,28 @@ Fora da área de programação, tenho experiência com atendimento ao cliente, t
       <p>
         🔒 <i>Código-fonte privado por motivos contratuais com o cliente.</i><br>
         🔗 <a href="https://fujita-lux-homes.lovable.app" target="_blank"><b>Acessar Projeto Online (Live Demo) »</b></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Projeto 2: TCC -->
+  <tr>
+    <td width="30%" align="center">
+      <b>Trabalho de Conclusão de Curso (TCC)</b><br><br>
+      <sub>Sistema Web / Projeto Acadêmico</sub>
+    </td>
+    <td>
+      <p>Sistema desenvolvido como projeto final de curso, aplicando conceitos de arquitetura de software, modelagem de banco de dados relacional e desenvolvimento web.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" valign="middle">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" valign="middle">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" valign="middle">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" valign="middle">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" valign="middle">
+      </p>
+      <p>
+        📂 <i>Repositório com documentação e código completo.</i><br>
+        🔗 <a href="https://github.com/EdsonDev-Nascimento/gerenciador-estoque-escola" target="_blank"><b>Ver Repositório no GitHub »</b></a>
       </p>
     </td>
   </tr>
