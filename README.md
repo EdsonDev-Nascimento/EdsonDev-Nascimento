@@ -15,7 +15,7 @@ Fora da área de programação, tenho experiência com atendimento ao cliente, t
   <!-- Projeto 1: Fujita Imóveis -->
   <tr>
     <td width="30%" align="center">
-      <b>Fujita Imóveis</b><br><br>
+      <b>Fujita Imóveis (ainda em desenvolvimento)</b><br><br>
       <sub>Plataforma Imobiliária de Luxo</sub>
     </td>
     <td>
