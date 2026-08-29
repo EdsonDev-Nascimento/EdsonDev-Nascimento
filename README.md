@@ -40,7 +40,7 @@ Fora da área de programação, tenho experiência com atendimento ao cliente, t
       <sub>Sistema Web / Projeto Acadêmico</sub>
     </td>
     <td>
-      <p>Sistema desenvolvido como projeto final de curso, aplicando conceitos de arquitetura de software, modelagem de banco de dados relacional e desenvolvimento web.</p>
+      <p>Sistema desenvolvido como projeto final de curso em 2019, aplicando conceitos de arquitetura de software, modelagem de banco de dados relacional e desenvolvimento web.</p>
       <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" valign="middle">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" valign="middle">
