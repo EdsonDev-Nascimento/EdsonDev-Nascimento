@@ -32,33 +32,30 @@ Fora da área de programação, tenho experiência com atendimento ao cliente, t
       </p>
     </td>
   </tr>
-  
     <!-- Projeto 2: ArVitta Climatização -->
   <tr>
-    <td width="30%" align="center">
-      <b>ArVitta Climatização</b><br><br>
-      <sub>Landing Page / Projeto de Portfólio</sub>
-    </td>
-    <td>
-      <p>
-        Landing page profissional e responsiva desenvolvida para uma empresa fictícia
-        de climatização, com foco em apresentação de serviços, experiência do usuário
-        e geração de contatos através do WhatsApp.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" valign="middle">
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" valign="middle">
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" valign="middle">
-      </p>
-      <p>
-        💼 <i>Projeto conceitual desenvolvido para portfólio.</i><br>
-        🔗 <a href="https://arvitta-climatizacao.lovable.app/" target="_blank"><b>Acessar Projeto Online (Live Demo) »</b></a><br>
-        📂 <a href="https://github.com/EdsonDev-Nascimento/arvitta-climatizacao" target="_blank"><b>Ver Repositório »</b></a>
-      </p>
-    </td>
-  </tr>
-
-  
+  <td width="30%" align="center">
+    <b>ArVitta Climatização</b><br><br>
+    <sub>Landing Page / Projeto de Portfólio</sub>
+  </td>
+  <td>
+    <p>
+      Landing page responsiva para empresa de climatização, com foco em apresentação
+      de serviços, experiência do usuário e conversão via WhatsApp.
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" valign="middle">
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" valign="middle">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" valign="middle">
+    </p>
+    <p>
+      💼 <i>Projeto conceitual desenvolvido para portfólio.</i><br>
+      🔗 <a href="https://arvitta-climatizacao.lovable.app/" target="_blank"><b>Live Demo »</b></a>
+      &nbsp;•&nbsp;
+      📂 <a href="https://github.com/EdsonDev-Nascimento/arvitta-climatizacao" target="_blank"><b>Repositório »</b></a>
+    </p>
+  </td>
+</tr>
   <!-- Projeto 3: TCC -->
   <tr>
     <td width="30%" align="center">
