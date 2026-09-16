@@ -32,8 +32,34 @@ Fora da área de programação, tenho experiência com atendimento ao cliente, t
       </p>
     </td>
   </tr>
+  
+    <!-- Projeto 2: ArVitta Climatização -->
+  <tr>
+    <td width="30%" align="center">
+      <b>ArVitta Climatização</b><br><br>
+      <sub>Landing Page / Projeto de Portfólio</sub>
+    </td>
+    <td>
+      <p>
+        Landing page profissional e responsiva desenvolvida para uma empresa fictícia
+        de climatização, com foco em apresentação de serviços, experiência do usuário
+        e geração de contatos através do WhatsApp.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" valign="middle">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" valign="middle">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" valign="middle">
+      </p>
+      <p>
+        💼 <i>Projeto conceitual desenvolvido para portfólio.</i><br>
+        🔗 <a href="https://arvitta-climatizacao.lovable.app/" target="_blank"><b>Acessar Projeto Online (Live Demo) »</b></a><br>
+        📂 <a href="https://github.com/EdsonDev-Nascimento/arvitta-climatizacao" target="_blank"><b>Ver Repositório »</b></a>
+      </p>
+    </td>
+  </tr>
 
-  <!-- Projeto 2: TCC -->
+  
+  <!-- Projeto 3: TCC -->
   <tr>
     <td width="30%" align="center">
       <b>Trabalho de Conclusão de Curso (TCC)</b><br><br>
@@ -70,6 +96,7 @@ Fora da área de programação, tenho experiência com atendimento ao cliente, t
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" valign="middle">
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" valign="middle">
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" valign="middle">
+    <br><br>
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" valign="middle">
    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" valign="middle">
   </td>
